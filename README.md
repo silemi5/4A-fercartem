@@ -1,5 +1,5 @@
 # 4A-fercartem
-A repository as a partial requirement for CSIT143 (IT Elective 2).
+A repository for CSIT143 (IT Elective 2: Game Development).
 
 # Getting Started
 None yet.
