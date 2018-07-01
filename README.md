@@ -14,3 +14,4 @@ None yet.
 - John Carlo Gatchalian
 - Moh. Alnaghil Teo
 - Keiffer James Vallar
+- Aniceto Intan III
